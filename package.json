@@ -1,0 +1,17 @@
+{
+  "name": "bilbo-baggins",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Arda",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2"
+  }
+}
